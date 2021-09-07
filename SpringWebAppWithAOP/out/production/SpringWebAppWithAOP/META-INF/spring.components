@@ -1,0 +1,8 @@
+#
+#Fri Sep 03 10:27:52 IST 2021
+webapp.entity.Customer=javax.persistence.Entity,javax.persistence.Table
+webapp.dao.CustomerDAOImpl=org.springframework.stereotype.Component
+webapp.aspect.CRMLoggingAspect=org.springframework.stereotype.Component
+webapp.service.CustomerServiceImpl=org.springframework.stereotype.Component
+webapp.controller.CustomerController=org.springframework.stereotype.Component
+webapp.testdb.TestDB=javax.servlet.annotation.WebServlet
